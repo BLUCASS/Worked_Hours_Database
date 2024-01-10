@@ -7,7 +7,7 @@ class Menu:
             try:
                 print(f'\033[1;42m{"MAIN MENU":^79}\033[m')
                 opt = int(input('[1] INSERT HOURS\n[2] READ WHOLE DATABASE\n[3] READ ONE WEEK\n[4] DELETE DATA\n[5] EXIT\nChoose your option: '))
-                assert opt >1 and opt <= 5
+                assert opt >= 1 and opt <= 5
             except:
                 print('\033[31mINVALID OPTION\033[m')
             else:
