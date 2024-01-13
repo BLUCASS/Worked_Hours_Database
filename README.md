@@ -1,4 +1,4 @@
-<h1 align="center">WORKED HOURS DATABASE</h1>
+<h1 align="center">🗃️ WORKED HOURS DATABASE</h1>
 
 ### 📝 DESCRIPTION
 
